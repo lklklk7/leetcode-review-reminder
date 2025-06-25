@@ -2,6 +2,9 @@
 
 Automated script which sends a reminder email after to revisit leetcode problems 3 weeks after intial completion. Change color of "# + Title" box to green, yellow, red based on problem difficulty to include difficulty in reminder.
 Link to LC tracker template with Apps Script file already attached: https://docs.google.com/spreadsheets/d/1IJ6RyfGhz8fg2S6FubumLzu3okgFAcDf2mUOhMPjubA/edit?usp=sharing
+
+
+
 Example email:
 
 
