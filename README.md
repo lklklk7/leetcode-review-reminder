@@ -1,1 +1,1 @@
-# leetcode-review-reminder
+# Reminder emails to review LC problems
