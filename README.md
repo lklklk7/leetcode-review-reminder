@@ -1,10 +1,10 @@
 # Reminder emails to review LC problems
 Automated reminder to revisit LC problems 3 weeks later
 
-#Features
+# Features
 Change color of "# + Title" box to green, yellow, red based on problem difficulty to include difficulty in reminder.
 
-#Template
+# Template
 https://docs.google.com/spreadsheets/d/1IJ6RyfGhz8fg2S6FubumLzu3okgFAcDf2mUOhMPjubA/edit?usp=sharing
 
 
