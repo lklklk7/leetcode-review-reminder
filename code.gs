@@ -64,6 +64,7 @@ function sendLeetcodeReminders() {
     }
   }
 
+
   if (reminders.length > 0) {
     const body = reminders.join("<br>");
     MailApp.sendEmail({
